@@ -1,0 +1,9 @@
+export(rpois_custom)
+export(dpois_custom)
+export(ppois_custom)
+export(qpois_custom)
+export(test_poisson_fit)
+
+importFrom(stats, chisq.test, runif)
+
+# exportPattern("^[[:alpha:]]+")

@@ -1,0 +1,11 @@
+Package: Poisson
+Type: Package
+Title: Poisson
+Version: 0.1.0
+Author: Menwa Menwa Emmanuel
+Maintainer: Menwa Menwa Emmanuel <georgesdurgs@gmail.com>
+Description: The Poissson package provides tools for simulating and analyzing data based on the Poisson distribution. User can easily generate random samples, visualize the distribution of events, and perform statisticalanalysis.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
